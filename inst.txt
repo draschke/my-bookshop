@@ -1,0 +1,15 @@
+- npm i
+
+- check for updates
+$ npm install -g npm-check-updates 
+
+- update package.json
+$ ncu -u
+@sap/cds  ^5.5.4  →  ^5.5.5
+$ npm i
+$ npm audit fix
+$ npm i cors -save 
+$ npm i helmet -save 
+$ cds watch
+http://localhost:4004/ -> is running
+
